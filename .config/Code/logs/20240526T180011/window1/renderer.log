@@ -1,0 +1,10 @@
+2024-05-26 18:00:25.254 [warning] Creation of workbench contribution 'workbench.contrib.updateExperimentalSettingsDefaults' took 24ms.
+2024-05-26 18:00:29.851 [info] Started local extension host with pid 8404.
+2024-05-26 18:00:31.268 [info] Started initializing default profile extensions in extensions installation folder. file:///home/apollo_ai/.vscode/extensions
+2024-05-26 18:00:36.196 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/apollo_ai/.vscode/extensions Unable to create file 'vscode-userdata:/home/apollo_ai/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-05-26 18:00:36.197 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/apollo_ai/.vscode/extensions
+2024-05-26 18:00:49.575 [info] [perf] Render performance baseline is 299ms
+2024-05-26 18:06:49.235 [info] Started local extension host with pid 8707.
+2024-05-26 18:07:06.211 [info] [perf] Render performance baseline is 532ms
+2024-05-26 18:11:23.321 [info] Extension host (LocalProcess pid: 8707) is unresponsive.
+2024-05-26 18:11:25.977 [info] Extension host (LocalProcess pid: 8707) is responsive.

@@ -1,0 +1,48 @@
+2024-05-26 18:04:42.334 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-26 18:04:42.334 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-26 18:04:42.334 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-26 18:04:42.334 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-26 18:04:42.334 [info] Experiment 'pythonTestAdapter' is active
+2024-05-26 18:04:43.145 [info] > conda info --json
+2024-05-26 18:04:43.282 [info] Found: /bin/python3 --> /bin/python3.9
+2024-05-26 18:04:43.283 [info] Found: /bin/python3.9 --> /bin/python3.9
+2024-05-26 18:04:43.340 [info] Found: /usr/bin/python3 --> /usr/bin/python3.9
+2024-05-26 18:04:43.341 [info] Found: /usr/bin/python3.9 --> /usr/bin/python3.9
+2024-05-26 18:04:43.454 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 18:04:43.557 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 18:04:44.582 [info] Python interpreter path: /bin/python3
+2024-05-26 18:04:46.387 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-05-26 18:04:46.431 [info] Shell integration status changed, can confirm it's working.
+2024-05-26 18:04:50.319 [info] Starting Pylance language server.
+2024-05-26 18:07:05.050 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-26 18:07:05.050 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-26 18:07:05.050 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-26 18:07:05.050 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-26 18:07:05.050 [info] Experiment 'pythonTestAdapter' is active
+2024-05-26 18:07:14.950 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-05-26 18:07:14.950 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-26 18:07:14.950 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-26 18:07:14.950 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-26 18:07:14.955 [info] Experiment 'pythonTestAdapter' is active
+2024-05-26 18:07:15.218 [info] Default formatter is set to null for workspace /home/apollo_ai/apollo ai development
+2024-05-26 18:07:15.552 [info] > hatch env show --json
+2024-05-26 18:07:15.552 [info] cwd: ~/apollo ai development
+2024-05-26 18:07:15.588 [info] Python interpreter path: /bin/python3
+2024-05-26 18:07:16.146 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-26 18:07:16.978 [info] > pyenv which python
+2024-05-26 18:07:16.978 [info] cwd: ~/apollo ai development
+2024-05-26 18:07:20.643 [info] Starting Pylance language server.
+2024-05-26 18:14:11.155 [info] CreateEnv Trigger - Skipping for /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:14:11.282 [info] Send text to terminal: /bin/python3 "/home/apollo_ai/apollo ai development/main.py"
+2024-05-26 18:14:11.326 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:14:12.303 [info] Send text to terminal: /bin/python3 "/home/apollo_ai/apollo ai development/main.py"
+2024-05-26 18:17:03.416 [info] Send text to terminal: /bin/python3 "/home/apollo_ai/apollo ai development/main.py"
+2024-05-26 18:17:03.568 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:17:53.067 [info] Send text to terminal: /bin/python3 "/home/apollo_ai/apollo ai development/main.py"
+2024-05-26 18:17:53.319 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:18:00.207 [info] Send text to terminal: /bin/python3 "/home/apollo_ai/apollo ai development/main.py"
+2024-05-26 18:18:07.195 [info] Send text to terminal: /bin/python3 "/home/apollo_ai/apollo ai development/main.py"
+2024-05-26 18:19:37.899 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:19:39.215 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:19:39.822 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
+2024-05-26 18:19:40.508 [info] Discover tests for workspace name: apollo ai development - uri: /home/apollo_ai/apollo ai development/main.py
